@@ -1,0 +1,21 @@
+Toy Story (1995)|4.0|1
+Toy Story (1995)|4.0|5
+Jumanji (1995)|4.0|6
+Jumanji (1995)|4.0|8
+Tom and Huck (1995)|3.0|6
+Tom and Huck (1995)|1.0|20
+Grumpier Old Men (1995)|4.0|1
+Grumpier Old Men (1995)|5.0|6
+Waiting to Exhale (1995)|3.0|6
+Waiting to Exhale (1995)|3.0|14
+Father of the Bride Part II (1995)|5.0|6
+Father of the Bride Part II (1995)|3.0|31
+Heat (1995)|4.0|1
+Heat (1995)|4.0|6
+Sudden Death (1995)|4.0|151
+Sudden Death (1995)|3.0|179
+GoldenEye (1995)|3.0|6
+GoldenEye (1995)|2.0|8
+jack (1995)|3.0|7
+sparrow Death (1995)|3.2|12
+jackass (1995)|3.3|11
